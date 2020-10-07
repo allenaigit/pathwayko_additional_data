@@ -1,0 +1,5 @@
+!platform: Affymetrix HT MG-430 PM Array Plate 
+!platform_url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL11180
+!custom_cdf_name: HTMG430PM_Mm_ENTREZG
+!custom_cdf_url: http://brainarray.mbni.med.umich.edu/Brainarray/Database/CustomCDF/24.0.0/entrezg.asp
+!time_stamp: 2020-06-03

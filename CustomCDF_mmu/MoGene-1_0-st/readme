@@ -1,0 +1,5 @@
+!platform: Affymetrix Mouse Gene 1.0 ST Array [transcript (gene) version]
+!platform_url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL6246
+!custom_cdf_name: mogene10st_Mm_ENTREZG
+!custom_cdf_url: http://brainarray.mbni.med.umich.edu/Brainarray/Database/CustomCDF/24.0.0/entrezg.asp
+!time_stamp: 2020-03-16

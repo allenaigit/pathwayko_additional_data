@@ -1,0 +1,5 @@
+!platform: Affymetrix Mouse Transcriptome Array 1.0 [transcript (gene) CSV version]
+!platform_url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL20775
+!custom_cdf_name: mta10_Mm_ENTREZG
+!custom_cdf_url: http://brainarray.mbni.med.umich.edu/Brainarray/Database/CustomCDF/24.0.0/entrezg.asp
+!time_stamp: 2020-06-03
